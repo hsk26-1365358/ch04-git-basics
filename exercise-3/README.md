@@ -1,4 +1,5 @@
 # Exercise 3
+# Here is the greetings you asked!
 
 Learn the basics of git workflow:
 
